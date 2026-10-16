@@ -1,0 +1,22 @@
+# Foundry build outputs
+out/
+cache/
+broadcast/
+
+# Scratch tests (deleted before verification)
+test/scratch/
+
+# Machine-local files that are not part of the project
+.bash_profile
+.bashrc
+.gitconfig
+.gitmodules
+.idea
+.mcp.json
+.profile
+.ripgreprc
+.vscode
+.zprofile
+.zshrc
+.claude/
+.imd/
