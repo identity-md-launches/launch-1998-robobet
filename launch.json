@@ -1,0 +1,24 @@
+{
+  "kind": "custom_token",
+  "token": {
+    "contract": "RobobetToken",
+    "name": "robobet",
+    "symbol": "ROBOBET",
+    "decimals": 18,
+    "constructorArgs": [],
+    "totalSupply": "1000000000000000000000000000"
+  },
+  "contracts": [],
+  "pool": {
+    "pairedCurrency": "0xd34a99bc0f67ae1bbd63c660e6d0b0dd03e263b7",
+    "fee": 12500,
+    "tickSpacing": 60,
+    "initialPrice": "79228162514264337593543950336"
+  },
+  "economics": {
+    "poolBps": 5000,
+    "initialMarketCapWei": "3000000000000000000000",
+    "remainderTo": "0xee2aaa315cf7ed169f93148d30d24af9318dbb66"
+  },
+  "notes": "robobet (ROBOBET): Put your fate in the hands of SUPERINTELLIGENCE. X: x.com/robobet_fun. RobobetToken is a fixed-supply ERC-20 with 18 decimals and no constructor arguments. Its constructor mints 1,000,000,000 ROBOBET (1e27 minor units) once to msg.sender, the factory. It has no owner, no mint, no burn, no pause, no blocklist and no transfer fee: every transfer moves exactly what it says. The launch deploys no application contracts."
+}
